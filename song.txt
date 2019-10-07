@@ -2,3 +2,5 @@ persha stroka
 dryga stroka
 tretya 
 chetverta
+
+dobavuv kolu byv gui
