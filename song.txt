@@ -11,3 +11,4 @@ dobavuv kolu byv gui
 >>>>>>> 8ff50c0a0abc68f9d46f98838b9d242a589dd5df
 
 sdfsdfsdf
+revert
