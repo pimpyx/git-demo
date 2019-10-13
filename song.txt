@@ -7,5 +7,4 @@ hgfhg
 ----------------
 
 
-checkout
-checkout_2
+checkout non faster
