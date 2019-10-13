@@ -1,10 +1,4 @@
 persha stroka 
 dryga stroka
-tretya 
-chetverta
-<<<<<<< HEAD
-hgfhg
-----------------
 
-
-checkout non faster
+conflictic
